@@ -1,0 +1,4 @@
+include 'VersionSetService'
+include 'VersionSetService.Core'
+include 'VersionSetService.Client'
+
